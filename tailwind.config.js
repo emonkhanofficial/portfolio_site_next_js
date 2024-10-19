@@ -22,8 +22,13 @@ module.exports = {
     
  fontFamily: {
   primary: "var(--font-jetbrainsMono)",
+  
  },
 
+
+ backgroundImage: {
+  'banner':"url('../components/img/banner.jpg')",
+},
 
     extend: {
 
