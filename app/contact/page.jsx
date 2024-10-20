@@ -52,7 +52,7 @@ const Contact = () => {
         {/* form */}
         <div className="xl:h-[54%] order-2 xl:order-none">
           <form className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl ">
-            <h3 className="text-4xl text-accent ">Let's Work Together</h3>
+            <h3 className="text-4xl text-accent "> Lets Work Together</h3>
             <p className="text-white/60  ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non impedit suscipit quod quam quibusdam.
             </p>
             {/* input */}
