@@ -26,7 +26,7 @@ const projects = [
       [{ name: "html 5" }, { name: "Css 3" }, { name: "Javascript" },],
     image: "/assets/work/thumb1.png",
     live: "",
-    github: "",
+    github: "https://emonkhanofficial.github.io/",
 
   },
   {
